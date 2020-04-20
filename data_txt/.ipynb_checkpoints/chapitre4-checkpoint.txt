@@ -1,0 +1,53 @@
+QCM 1 : En cas d’infections, sur quelle structure s’appuie l’Union européenne pour les surveiller ? (Une seule réponse est exacte)
+A.	Le Centre européen de prévention et de contrôle des maladies
+B.	Le Système d’alerte précoce et de réaction
+C.	Le Comité de Sécurité Sanitaire
+D.	Le Comité scientifique des risques sanitaires, environnementaux et émergents
+E.	Les propositions A, B, C et D sont fausses
+
+Réponse : B
+
+QCM 2 : Dans sa mission de communication, à qui s’adresse le Comité de sécurité sanitaire de l’Union européenne ? (Deux réponses sont exactes)
+A.	Au grand public
+B.	À l’Organisation mondiale de la Santé
+C.	Aux Agences régionales de santé
+D.	Aux professionnels de santé
+E.	Les propositions A, B, C et D sont fausses
+
+Réponse : AD
+
+QCM 3 : Quelles exigences implique l’utilisation thérapeutique du sang ? (Deux réponses sont exactes)
+A.	Les prélèvements sous surveillance médicale
+B.	La confiance dans la sécurité des transfusions
+C.	La garantie de qualité et de sécurité des transfusions
+D.	La surveillance des transferts transfrontaliers de sang
+E.	Les propositions A, B, C et D sont fausses
+
+Réponse : BC
+
+QCM 4 : Par quels moyens les États membres de l’Union européenne doivent encourager leurs populations au don du sang ? (Une seule réponse est exacte)
+A.	La démonstration des avantages du don pour les patients
+B.	Le contrôle permanent des établissements de transfusion
+C.	La prise en compte rapide des effets indésirables
+D.	L’accueil chaleureux des donneurs par les personnels
+E.	Les propositions A, B, C et D sont fausses
+
+Réponse : A
+
+QCM 5 : De la part des établissements de collecte du sang, quelles données doivent-ils identifier ? (Trois réponses sont exactes)
+A.	La traçabilité du don
+B.	L’organisation de la pharmacovigilance
+C.	Les réactions indésirables
+D.	Les exclusions du don
+E.	Les propositions A, B, C et D sont fausses
+
+Réponse : ACD
+
+QCM 6 : En vue de son accréditation, quelles informations générales doit produire un établissement de transfusion ? (Deux réponses sont exactes)
+A.	L’identification de l’établissement
+B.	Le programme prévisionnel des collectes de sang
+C.	Les qualifications du personnel
+D.	Le descriptif d’accès des locaux en vue des contrôles
+E.	Les propositions A, B, C et D sont fausses
+
+Réponse : AC

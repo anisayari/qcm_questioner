@@ -1,0 +1,82 @@
+QCM 1 : Pour quelles raisons la résistance aux antimicrobiens progresse-t-elle ? (Trois réponses sont exactes)
+A.	Recours abusif et inapproprié aux antimicrobiens
+B.	Forte progression d’infections émergentes
+C.	Manque de nouveaux traitements antimicrobiens
+D.	Prévention insuffisante contre les infections
+E.	Les propositions A, B, C et D sont fausses
+
+Réponse : ACD
+
+QCM 2 : Quelles mesures spécifiques l’Union européenne suggère-t-elle d’adopter au sujet d’une utilisation prudente des agents antimicrobiens ? (Deux réponses sont exactes)
+A.	L’encadrement de la délivrance par les pharmaciens
+B.	La surveillance de la résistance aux antimicrobiens dans les établissements de soins
+C.	La formation des professionnels de santé
+D.	L’interdiction des antimicrobiens en médecine vétérinaire
+E.	Les propositions A, B, C et D sont fausses
+
+Réponse : BC
+
+QCM 3 : Quelles missions incombent au Centre européen de prévention et de contrôle des maladies (ECDC) au sujet des maladies infectieuses ? (Trois réponses sont exactes)
+A.	Réagir
+B.	Déceler
+C.	Évaluer
+D.	Faire connaître
+E.	Les propositions A, B, C et D sont fausses
+
+Réponse : BCD
+
+QCM 4 : Quelle tâche a été dévolue au Centre européen de prévention et de contrôle des maladies (ECDC) ? (Une seule réponse est exacte)
+A.	La coordination de la recherche de nouveaux vaccins
+B.	La lutte contre les infections liées aux soins
+C.	La surveillance épidémiologique
+D.	La coopération étroite avec l’OMS
+E.	Les propositions A, B, C et D sont fausses
+
+Réponse : C
+ 
+
+QCM 5 : En matière de vaccination quelles actions à conduire reviennent à la Commission européenne ? (Deux réponses sont exactes)
+A.	Les incitations à la vaccination
+B.	La supervision des laboratoires de production des vaccins
+C.	La diffusion de messages clairs et sérieux
+D.	Le partage des meilleures pratiques d’encouragement à la vaccination
+E.	Les propositions A, B, C et D sont fausses
+
+Réponse : CD
+
+QCM 6 : Quelle couverture vaccinale efficace nécessite la grippe saisonnière ? (Une seule réponse est exacte)
+A. 50%
+B. 80%
+C. 75%
+D. 65%
+E. Les propositions A, B, C et D sont fausses
+
+Réponse : C
+
+QCM 7 : À propos de quels cancers la Commission européenne a édicté des lignes directrices ? (Trois réponses sont exactes)
+A.	Le cancer du sein
+B.	Le cancer de la prostate
+C.	Le cancer colorectal
+D.	Le cancer du col de l’utérus
+E.	Les propositions A, B, C et D sont fausses
+
+Réponse : ACD
+
+QCM 8 : D’un point de vue éthique, que doivent prévoir les règles nationales en cas de maladies neurodégénératives ? (Deux réponses sont exactes)
+A.	Le respect de l’autonomie des patients
+B.	Le meilleur accompagnement de la fin de vie
+C.	L’assistance aux aidants familiaux des malades
+D.	Le respect de la dignité des patients
+E.	Les propositions A, B, C et D sont fausses
+
+Réponse : D
+ 
+
+QCM 9 : Combien de maladies réunit la base de données Orphanet ? (Une seule réponse est exacte)
+A. 5.000
+B. 2.500
+C. 8.000
+D. 6.000
+E. Les propositions A, B, C et D sont fausses
+
+Réponse : D
